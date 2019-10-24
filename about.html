@@ -1,0 +1,68 @@
+---
+layout: default
+title: ¿Quiénes somos?
+description: >
+  En esta página encontrarás información relacionada con el Grupo de Oleaje del
+  CICESE, sus integrantes, curricula, proyectos, publicaciones y diversas
+  actividades relacionadas con la investigación y la docencia sobre el oleaje en
+  México y en el mundo.
+---
+
+{% include masthead.html %}
+
+<!-- Page Content -->
+<div class="container">
+
+  <!-- Team Members -->
+  <h2 class="text-center">Nuestro equipo</h2>
+
+  <!-- row -->
+  <div class="row">
+
+    {% for person in site.data.people %}
+      {% include people-card.html %}
+    {% endfor %}
+ 
+  </div>
+  <!-- row -->
+
+  <!-- Team Members -->
+  <h2 class="text-center">Colaboradores</h2>
+
+  <!-- row -->
+  <div class="row">
+
+    {% for person in site.data.collaborators %}
+      {% include people-card.html %}
+    {% endfor %}
+ 
+  </div>
+  <!-- row -->
+
+  <!-- Our Collaborators -->
+  <br>
+  <h2 class="text-center">Instituciones asociadas</h2>
+  <div class="row">
+    <div class="col-lg-2 col-sm-4 mb-4">
+      <img class="img-fluid" src="" alt="">
+    </div>
+    <div class="col-lg-2 col-sm-4 mb-4">
+      <img class="img-fluid" src="img/logos/cicese.png" alt="">
+    </div>
+    <div class="col-lg-2 col-sm-4 mb-4">
+      <img class="img-fluid" src="img/logos/uabc.png" alt="">
+    </div>
+    <div class="col-lg-2 col-sm-4 mb-4">
+      <img class="img-fluid" src="img/logos/iio.png" alt="">
+    </div>
+    <div class="col-lg-2 col-sm-4 mb-4">
+      <img class="img-fluid" src="img/logos/colima.png" alt="">
+    </div>
+    <div class="col-lg-2 col-sm-4 mb-4">
+      <img class="img-fluid" src="" alt="">
+    </div>
+  </div>
+  <!-- /.row -->
+
+</div>
+<!-- /.container -->
