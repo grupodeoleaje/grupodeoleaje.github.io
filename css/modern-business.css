@@ -35,8 +35,10 @@ h1, h2, h3 {
 }
 
 .icon {
-  width: 50%;
-  margin-left: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 
 .map {
