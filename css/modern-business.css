@@ -41,6 +41,12 @@ h1, h2, h3 {
   width: 40%;
 }
 
+.icon-text {
+  padding-top: 20px;
+  text-align: center;
+  vertical-align: center;
+}
+
 .map {
   width: 100%;
   min-height: 400px;
