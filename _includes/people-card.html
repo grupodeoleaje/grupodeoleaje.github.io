@@ -1,24 +1,52 @@
 <div class="col-lg-3 mb-4">
   <div class="h-100 text-center">
     
-    {% if person.webpage %}
-    <a href="{{person.webpage}}">
-    <img class="person-photo rounded-circle card-img-top" src="{{person.photo}}" alt="">
-    </a>
-    {% else %}
-    <img class="person-photo rounded-circle card-img-top" src="{{person.photo}}" alt="">
-    {% endif %}
+    <img class="person-photo rounded-circle card-img-top" data-toggle="modal"
+      data-target="#{{person.name | slugify}}-modal" src="{{person.photo}}" alt="">
     
     <div class="card-body">
       <h5 class="card-title">{{person.name}}</h5>
       <h6 class="card-subtitle mb-2 text-muted">{{person.role}}</h6>
       <a href="mailto:{{person.email}}">{{person.email}}</a>
     </div>
-    
-    <!--<div class="card-footer">-->
-      <!--<a href="mailto:{{person.email}}">{{person.email}}</a>-->
-    <!--</div>-->
-  
   </div>
+</div>
 
+<!--Modal-->
+<div class="modal fade" id="{{person.name | slugify}}-modal" role="dialog">
+  <div class="modal-dialog modal-md modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="text-centered">{{person.name}}</h4>
+        <h6 class="text-muted">{{person.role}}</h6>
+      </div>
+      <div class="modal-body">
+        <img class="person-photo rounded-circle" src="{{person.photo}}" alt="">
+        <p class="blog-body">{{person.bio}}</p>
+        <hr>
+        <!--<div class="social-media">-->
+          <!--<a href="{{person.email}}"><i class="fa fa-envelope-square"></i></a>-->
+          <!--<a href="{{person.twitter}}"><i class="fa fa-twitter-square"></i></a>-->
+          <!--<a href="{{person.facebook}}"><i class="fa fa-facebook-square"></i></a>-->
+          <!--<a href="{{person.github}}"><i class="fa fa-github-square"></i></a>-->
+          <!--<a href="{{person.linkedin}}"><i class="fa fa-linkedin-square"></i></a>-->
+        <!--</div>-->
+
+        <div class="social-media">
+          <a href="mailto:{{person.email}}"><img src="img/social/envelope-open-solid.svg" alt=""/></a>
+          <a href="{{person.webpage}}"><img src="img/social/globe-solid.svg" alt=""/></a>
+          <a href="{{person.facebook}}"><img src="img/social/facebook-brands.svg" alt=""/></a>
+          <a href="{{person.twitter}}"><img src="img/social/twitter-brands.svg" alt=""/></a>
+          <a href="{{person.github}}"><img src="img/social/github-brands.svg" alt=""/></a>
+          <a href="{{person.researchgate}}"><img src="img/social/researchgate-brands.svg" alt=""/></a>
+          <a href="{{person.orcid}}"><img src="img/social/orcid-brands.svg" alt=""/></a>
+        </div>
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default"
+          data-dismiss="modal">Cerrar</button>
+      </div>
+    </div>
+  </div>
 </div>

@@ -2,140 +2,230 @@
   role: Lídel del grupo
   photo: img/people/paco.jpg
   email: ocampo@cicese.mx
-  webpage:
-  bio:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
+  bio: >
+    Paco es Oceanólogo de la UABC y tiene doctorado en Quién sabe qué de la
+    Universidad de Southampton. Sus intereses son el estudio de las olas.
 
 - name: Nicolas Rascle
   role: Investigador
   photo: img/people/nico.jpg
   email: nrascle@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Pedro Osuna Cañedo
   role: Técnico titular
   photo: http://placehold.it/500x500 
   email: osunac@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Guillermo Díaz Méndez
   role: Investigador asociado
   photo: img/people/memo.jpg
   email: gmendez@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Héctor García Nava
   role: Investigador IIO-UABC
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Bernardo Esquivel T.
   role: Investigador IIO-UABC
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Reginaldo Durazo
   role: Investigador FCM-UABC
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Vladimir Toro V.
   role: Investigador UdeA
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Manuel Verduzco Z.
   role: Investigador U. de Colima
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Lucía Robles Díaz
   role: Posdoc
   photo: img/people/lucia.jpg
   email: email@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Aimie Moulin
   role: Posdoc
   photo: http://placehold.it/500x500 
   email: email@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Diego Galván Pozos
   role: Posdoc
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Laura Perez Sampablo
   role: Estudiante de doctorado
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Carlos F. Herrera V.
   role: Estudiante de doctorado
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Omar Zain Torres
   role: Estudiante de maestría
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Rodrigo Alcaráz G.
   role: Técnico
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
-  bio:
-
-- name: Luis Rodrigo Ulloa
-  role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Eduardo Santiago O.
   role: Técnico
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Jacinto León G.
   role: Técnico
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Maria Esther Leyva
   role: Técnico
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Daniel S. P. Zapata
@@ -143,68 +233,178 @@
   photo: http://placehold.it/500x500 
   email: dpelaez@cicese.edu.mx
   webpage: http://dspelaez.github.io
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/dnlsntg09
+  github: http://github.com/dspelaez
+  researchgate: https://www.researchgate.net/profile/Daniel_Pelaez-Zapata
+  orcid: https://orcid.org/
+  bio:
+
+- name: Luis Rodrigo Ulloa
+  role: Técnico
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
+  bio:
+
+- name: Eduardo Santiago O.
+  role: Técnico
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
+  bio:
+
+- name: Jacinto León G.
+  role: Técnico
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
+  bio:
+
+- name: Maria Esther Leyva
+  role: Técnico
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
+  bio:
+
+- name: Daniel S. P. Zapata
+  role: Técnico
+  photo: http://placehold.it/500x500 
+  email: dpelaez@cicese.edu.mx
+  webpage: http://dspelaez.github.io
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/dnlsntg09
+  github: http://github.com/dspelaez
+  researchgate: https://www.researchgate.net/profile/Daniel_Pelaez-Zapata
+  orcid: https://orcid.org/
   bio:
 
 - name: Marco Larrañaga Fu
   role: Técnico
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Diego Larios Rodríguez
   role: Técnico
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Tito Martinez Osuna
   role: Técnico DOF
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Erick Rivera Lemus
   role: Técnico DOF
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Melissa Jaramillo T.
   role: Técnico IIO-UABC
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Emiliano Gorr P.
   role: Técnico IIO-UABC
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Julieta Castro S.
   role: Administrativa
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Amaranta Ruiz
   role: Administrativa
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
 - name: Alexia Peralta
   role: Administrativa
   photo: http://placehold.it/500x500 
   email: emai@cicese.mx
-  webpage:
+  webpage: #
+  facebook: https://facebook.com/
+  twitter: http://twitter.com/
+  github: http://github.com/
+  researchgate: https://www.researchgate.net/
+  orcid: https://orcid.org/
   bio:
 
