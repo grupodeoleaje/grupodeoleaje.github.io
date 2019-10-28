@@ -1,12 +1,12 @@
 <div class="col-lg-3 mb-4">
-  <div class="card h-100 text-center">
+  <div class="h-100 text-center">
     
     {% if person.webpage %}
     <a href="{{person.webpage}}">
-    <img class="card-img-top" src="{{person.photo}}" alt="">
+    <img class="person-photo rounded-circle card-img-top" src="{{person.photo}}" alt="">
     </a>
     {% else %}
-    <img class="card-img-top" src="{{person.photo}}" alt="">
+    <img class="person-photo rounded-circle card-img-top" src="{{person.photo}}" alt="">
     {% endif %}
     
     <div class="card-body">

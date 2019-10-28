@@ -14,7 +14,7 @@
 
 - name: Pedro Osuna Cañedo
   role: Técnico titular
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: osunac@cicese.mx
   webpage:
   bio:
@@ -23,6 +23,41 @@
   role: Investigador asociado
   photo: img/people/memo.jpg
   email: gmendez@cicese.mx
+  webpage:
+  bio:
+
+- name: Héctor García Nava
+  role: Investigador IIO-UABC
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
+  webpage:
+  bio:
+
+- name: Bernardo Esquivel T.
+  role: Investigador IIO-UABC
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
+  webpage:
+  bio:
+
+- name: Reginaldo Durazo
+  role: Investigador FCM-UABC
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
+  webpage:
+  bio:
+
+- name: Vladimir Toro V.
+  role: Investigador UdeA
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
+  webpage:
+  bio:
+
+- name: Manuel Verduzco Z.
+  role: Investigador U. de Colima
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
   webpage:
   bio:
 
@@ -35,126 +70,140 @@
 
 - name: Aimie Moulin
   role: Posdoc
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: email@cicese.mx
   webpage:
   bio:
 
 - name: Diego Galván Pozos
   role: Posdoc
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
-- name: Laura Perez Sambplo
+- name: Laura Perez Sampablo
   role: Estudiante de doctorado
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Carlos F. Herrera V.
   role: Estudiante de doctorado
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Omar Zain Torres
   role: Estudiante de maestría
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Rodrigo Alcaráz G.
   role: Técnico
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Luis Rodrigo Ulloa
   role: Técnico
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Eduardo Santiago O.
   role: Técnico
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Jacinto León G.
   role: Técnico
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Maria Esther Leyva
   role: Técnico
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Daniel S. P. Zapata
   role: Técnico
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: dpelaez@cicese.edu.mx
   webpage: http://dspelaez.github.io
   bio:
 
 - name: Marco Larrañaga Fu
   role: Técnico
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Diego Larios Rodríguez
   role: Técnico
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Tito Martinez Osuna
   role: Técnico DOF
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Erick Rivera Lemus
   role: Técnico DOF
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
+  webpage:
+  bio:
+
+- name: Melissa Jaramillo T.
+  role: Técnico IIO-UABC
+  photo: http://placehold.it/500x500 
+  email: emai@cicese.mx
+  webpage:
+  bio:
+
+- name: Emiliano Gorr P.
+  role: Técnico IIO-UABC
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Julieta Castro S.
   role: Administrativa
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Amaranta Ruiz
   role: Administrativa
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:
 
 - name: Alexia Peralta
   role: Administrativa
-  photo: http://placehold.it/750x500 
+  photo: http://placehold.it/500x500 
   email: emai@cicese.mx
   webpage:
   bio:

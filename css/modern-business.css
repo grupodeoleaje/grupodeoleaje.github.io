@@ -4,9 +4,19 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 
+
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+
 h1, h2, h3 {
   padding-top: 30px;
   padding-bottom: 20px;
+  font-family: 'Lato', sans-serif;
 }
 
 .carousel-item {
@@ -19,9 +29,13 @@ h1, h2, h3 {
   background-size: cover;
 }
 
+.person-photo {
+  width: 75%;
+}
+
 .portfolio-item {
-  margin-top: 40px;
-  margin-bottom: 120px;
+  margin-top: 5px;
+  margin-bottom: 40px;
 }
 
 .masthead {
@@ -38,7 +52,7 @@ h1, h2, h3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 80px;
 }
 
 .icon-text {
@@ -59,17 +73,19 @@ h1, h2, h3 {
   text-justify: inter-word;
 }
 
+
+/*----------------------*/
+/* display configuraion */
+/*----------------------*/
+
 @media (max-width: 576px) {
-  .icon {
-    width: 20%;
-  }
 
   .icon-text {
     padding-top: 5px;
   }
 
-  .portfolio-item {
-    margin-top: 5px;
-    margin-bottom: 40px;
+  .person-photo {
+    width: 50%;
   }
+
 }
