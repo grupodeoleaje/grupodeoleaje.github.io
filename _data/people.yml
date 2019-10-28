@@ -9,8 +9,10 @@
   researchgate: https://www.researchgate.net/
   orcid: https://orcid.org/
   bio: >
-    Paco es Oceanólogo de la UABC y tiene doctorado en Quién sabe qué de la
-    Universidad de Southampton. Sus intereses son el estudio de las olas.
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 - name: Nicolas Rascle
   role: Investigador
@@ -22,7 +24,11 @@
   github: http://github.com/
   researchgate: https://www.researchgate.net/
   orcid: https://orcid.org/
-  bio:
+  bio: >
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 - name: Pedro Osuna Cañedo
   role: Técnico titular
@@ -34,7 +40,11 @@
   github: http://github.com/
   researchgate: https://www.researchgate.net/
   orcid: https://orcid.org/
-  bio:
+  bio: >
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 - name: Guillermo Díaz Méndez
   role: Investigador asociado
