@@ -7,15 +7,27 @@ title: Blog
 
 <div class="container">
 
-  <h1>Últimas publicaciones</h1>
+  <h3>Últimas publicaciones</h3>
 
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
-        <p>{{ post.excerpt }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+  {% for post in site.posts %}
+  <div class="mb-3" style="max-width: 100%;">
+    <div class="row no-gutters">
+      <div class="col-md-4">
+        <img src="{{ post.thumbnail }}" class="card-img" alt="">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <h4 class="card-title"><a href="{{post.url}}">{{ post.title }}</a></h4>
+          <p class="card-text">{{ post.excerpt }}</p>
+          <p class="card-text"><small class="text-muted">
+            Publicado por {{ post.author }} el {{ post.date | date: '%Y/%m%d'}} </small></p>
+        </div>
+      </div>
+    </div>
+    <hr>
+  </div>
+  {% endfor %}
+
+
 
 </div>
