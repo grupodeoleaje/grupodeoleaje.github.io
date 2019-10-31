@@ -8,6 +8,7 @@
   github: http://github.com/
   researchgate: https://www.researchgate.net/
   orcid: https://orcid.org/
+  phone: (+52) 646 175 0500 + Ext. 22989
   bio: >
     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
     tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
@@ -24,6 +25,7 @@
   github: http://github.com/
   researchgate: https://www.researchgate.net/
   orcid: https://orcid.org/
+  phone: (+52) 646 175 0500 + Ext. 22989
   bio: >
     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
     tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
@@ -40,6 +42,7 @@
   github: http://github.com/
   researchgate: https://www.researchgate.net/
   orcid: https://orcid.org/
+  phone: (+52) 646 175 0500 + Ext. 22989
   bio: >
     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
     tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
@@ -56,7 +59,12 @@
   github: http://github.com/
   researchgate: https://www.researchgate.net/
   orcid: https://orcid.org/
-  bio:
+  phone: (+52) 646 175 0500 + Ext. 22989
+  bio: >
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 - name: Héctor García Nava
   role: Investigador IIO-UABC
@@ -68,7 +76,12 @@
   github: http://github.com/
   researchgate: https://www.researchgate.net/
   orcid: https://orcid.org/
-  bio:
+  phone: (+52) 646 175 0500 + Ext. 22989
+  bio: >
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 - name: Bernardo Esquivel T.
   role: Investigador IIO-UABC
@@ -80,7 +93,12 @@
   github: http://github.com/
   researchgate: https://www.researchgate.net/
   orcid: https://orcid.org/
-  bio:
+  phone: (+52) 646 175 0500 + Ext. 22989
+  bio: >
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 - name: Reginaldo Durazo
   role: Investigador FCM-UABC
@@ -248,7 +266,12 @@
   github: http://github.com/dspelaez
   researchgate: https://www.researchgate.net/profile/Daniel_Pelaez-Zapata
   orcid: https://orcid.org/
-  bio:
+  phone: (+52) 646 175 0500 + Ext. 22989
+  bio: >
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 - name: Luis Rodrigo Ulloa
   role: Técnico

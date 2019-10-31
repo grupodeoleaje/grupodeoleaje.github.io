@@ -16,21 +16,19 @@
 <div class="modal fade" id="{{person.name | slugify}}-modal" role="dialog">
   <div class="modal-dialog modal-md modal-dialog-centered">
     <div class="modal-content">
-      <div class="modal-header">
-        <h4 class="text-centered">{{person.name}}</h4>
-        <h6 class="text-muted">{{person.role}}</h6>
+      <div class="modal-header d-block">
+          <div class="d-flex">
+            <h4 class="modal-title">{{person.name}}</h4>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                   <span aria-hidden="true"><img src="img/icons/x-circle.svg" alt=""/></span>
+              </button>
+          </div>
+          <h6 class="modal-title text-muted">{{person.role}}</h6>
       </div>
       <div class="modal-body">
         <img class="person-photo rounded-circle" src="{{person.photo}}" alt="">
         <p class="blog-body">{{person.bio}}</p>
         <hr>
-        <!--<div class="social-media">-->
-          <!--<a href="{{person.email}}"><i class="fa fa-envelope-square"></i></a>-->
-          <!--<a href="{{person.twitter}}"><i class="fa fa-twitter-square"></i></a>-->
-          <!--<a href="{{person.facebook}}"><i class="fa fa-facebook-square"></i></a>-->
-          <!--<a href="{{person.github}}"><i class="fa fa-github-square"></i></a>-->
-          <!--<a href="{{person.linkedin}}"><i class="fa fa-linkedin-square"></i></a>-->
-        <!--</div>-->
 
         <div class="social-media">
           <a href="mailto:{{person.email}}"><img src="img/social/envelope-open-solid.svg" alt=""/></a>
