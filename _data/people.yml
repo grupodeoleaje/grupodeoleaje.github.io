@@ -220,59 +220,6 @@
   orcid: https://orcid.org/
   bio:
 
-- name: Eduardo Santiago O.
-  role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
-  webpage: #
-  facebook: https://facebook.com/
-  twitter: http://twitter.com/
-  github: http://github.com/
-  researchgate: https://www.researchgate.net/
-  orcid: https://orcid.org/
-  bio:
-
-- name: Jacinto León G.
-  role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
-  webpage: #
-  facebook: https://facebook.com/
-  twitter: http://twitter.com/
-  github: http://github.com/
-  researchgate: https://www.researchgate.net/
-  orcid: https://orcid.org/
-  bio:
-
-- name: Maria Esther Leyva
-  role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
-  webpage: #
-  facebook: https://facebook.com/
-  twitter: http://twitter.com/
-  github: http://github.com/
-  researchgate: https://www.researchgate.net/
-  orcid: https://orcid.org/
-  bio:
-
-- name: Daniel S. P. Zapata
-  role: Técnico
-  photo: http://placehold.it/500x500 
-  email: dpelaez@cicese.edu.mx
-  webpage: http://dspelaez.github.io
-  facebook: https://facebook.com/
-  twitter: http://twitter.com/dnlsntg09
-  github: http://github.com/dspelaez
-  researchgate: https://www.researchgate.net/profile/Daniel_Pelaez-Zapata
-  orcid: https://orcid.org/
-  phone: (+52) 646 175 0500 + Ext. 22989
-  bio: >
-    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-    no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
 - name: Luis Rodrigo Ulloa
   role: Técnico
   photo: http://placehold.it/500x500 
@@ -331,7 +278,13 @@
   github: http://github.com/dspelaez
   researchgate: https://www.researchgate.net/profile/Daniel_Pelaez-Zapata
   orcid: https://orcid.org/
-  bio:
+  phone: (+52) 646 175 0500 + Ext. 22989
+  bio: >
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
+    tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
+    vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+    no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
 
 - name: Marco Larrañaga Fu
   role: Técnico
