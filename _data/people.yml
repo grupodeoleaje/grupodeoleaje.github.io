@@ -1,5 +1,5 @@
 - name: Paco Ocampo Torres
-  role: Lídel del grupo
+  role: Líder del grupo
   photo: img/people/paco.jpg
   email: ocampo@cicese.mx
   webpage: #
@@ -34,7 +34,7 @@
 
 - name: Pedro Osuna Cañedo
   role: Técnico titular
-  photo: http://placehold.it/500x500 
+  photo: img/people/pedro.jpg
   email: osunac@cicese.mx
   webpage: #
   facebook: https://facebook.com/
@@ -68,8 +68,8 @@
 
 - name: Héctor García Nava
   role: Investigador IIO-UABC
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/hector.jpg
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -85,8 +85,8 @@
 
 - name: Bernardo Esquivel T.
   role: Investigador IIO-UABC
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -102,8 +102,8 @@
 
 - name: Reginaldo Durazo
   role: Investigador FCM-UABC
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -114,8 +114,8 @@
 
 - name: Vladimir Toro V.
   role: Investigador UdeA
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -126,8 +126,8 @@
 
 - name: Manuel Verduzco Z.
   role: Investigador U. de Colima
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -150,7 +150,7 @@
 
 - name: Aimie Moulin
   role: Posdoc
-  photo: http://placehold.it/500x500 
+  photo: img/people/placeholder.jpg 
   email: email@cicese.mx
   webpage: #
   facebook: https://facebook.com/
@@ -162,8 +162,8 @@
 
 - name: Diego Galván Pozos
   role: Posdoc
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -174,8 +174,8 @@
 
 - name: Laura Perez Sampablo
   role: Estudiante de doctorado
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -186,8 +186,8 @@
 
 - name: Carlos F. Herrera V.
   role: Estudiante de doctorado
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -198,8 +198,8 @@
 
 - name: Omar Zain Torres
   role: Estudiante de maestría
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -210,8 +210,8 @@
 
 - name: Rodrigo Alcaráz G.
   role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -222,8 +222,8 @@
 
 - name: Luis Rodrigo Ulloa
   role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -234,8 +234,8 @@
 
 - name: Eduardo Santiago O.
   role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -246,8 +246,8 @@
 
 - name: Jacinto León G.
   role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -258,8 +258,8 @@
 
 - name: Maria Esther Leyva
   role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -270,7 +270,7 @@
 
 - name: Daniel S. P. Zapata
   role: Técnico
-  photo: http://placehold.it/500x500 
+  photo: img/people/placeholder.jpg 
   email: dpelaez@cicese.edu.mx
   webpage: http://dspelaez.github.io
   facebook: https://facebook.com/
@@ -288,8 +288,8 @@
 
 - name: Marco Larrañaga Fu
   role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -300,8 +300,8 @@
 
 - name: Diego Larios Rodríguez
   role: Técnico
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -312,8 +312,8 @@
 
 - name: Tito Martinez Osuna
   role: Técnico DOF
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -324,8 +324,8 @@
 
 - name: Erick Rivera Lemus
   role: Técnico DOF
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -336,8 +336,8 @@
 
 - name: Melissa Jaramillo T.
   role: Técnico IIO-UABC
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -348,8 +348,8 @@
 
 - name: Emiliano Gorr P.
   role: Técnico IIO-UABC
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -360,8 +360,8 @@
 
 - name: Julieta Castro S.
   role: Administrativa
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -372,8 +372,8 @@
 
 - name: Amaranta Ruiz
   role: Administrativa
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
@@ -384,8 +384,8 @@
 
 - name: Alexia Peralta
   role: Administrativa
-  photo: http://placehold.it/500x500 
-  email: emai@cicese.mx
+  photo: img/people/placeholder.jpg 
+  email: example@cicese.mx
   webpage: #
   facebook: https://facebook.com/
   twitter: http://twitter.com/
